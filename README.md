@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##### build the project
 
     ./gradlew build
@@ -10,3 +11,6 @@
 
     docker tag java-app demo-app:java-1.0
     
+=======
+# Githubactionproject
+>>>>>>> 67d974dfbcd04f4f708197638fcb39b8e2af2f47
